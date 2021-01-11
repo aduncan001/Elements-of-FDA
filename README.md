@@ -44,7 +44,8 @@ Page limit: 10 pages, recommended length around 6-8 pages
   
 Relevant introductory graduate textbooks and edited volumes:
 
-  - Horváth, Lajos, and Piotr Kokoszka. Inference for functional data with applications. Vol. 200. Springer Science & Business Media, 2012.
+  - Horváth, Lajos, and Kokoszka, Piotr. Inference for functional data with applications. Vol. 200. Springer Science & Business Media, 2012.
+  - Kokoszka, Piotr, and Matthew Reimherr. Introduction to functional data analysis. CRC Press, 2017.
   - Hsing, Tailen, and Randall Eubank. Theoretical foundations of functional data analysis, with an introduction to linear operators. Vol. 997. John Wiley & Sons, 2015.
   - Ramsey, J.O., Silverman, B.W., Functional Data Analysis,  Springer Series in Statistics, 2005.
   - Ramsay, James O., and Bernard W. Silverman. Applied functional data analysis: methods and case studies. Springer, 2007
