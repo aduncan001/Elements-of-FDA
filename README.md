@@ -11,7 +11,7 @@ Below you can find the course outline. Every week a new set of lecture notes wil
 The lecture plan is as follows.
 
 
-- Week 1
+- Week 1: [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture1.pdf)  | [R Code](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture1.Rmd)
   - Introduction to FDA: what is functional data, some elements from the FDA toolkit.
   - Smoothing and Regularisation.
  
