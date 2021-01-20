@@ -15,7 +15,7 @@ The lecture plan is as follows.
   - Introduction to FDA: what is functional data, some elements from the FDA toolkit.
   - Smoothing and Regularisation.
  
-- Week 2 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture2.pdf)
+- Week 2 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture2.pdf) | [Video](https://youtu.be/Zxqs9iPuvjc)
   - A Hilbert Space Model for Functional Data.
   
 - Week 3
