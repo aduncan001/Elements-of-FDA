@@ -18,7 +18,7 @@ The lecture plan is as follows.
 - Week 2 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture2.pdf) | [Video](https://youtu.be/Zxqs9iPuvjc)
   - A Hilbert Space Model for Functional Data.
   
-- Week 3
+- Week 3 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture3.pdf)
   - Functional Principal Component Analysis.
   - Canonical Correlation Analysis
 
