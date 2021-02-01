@@ -15,14 +15,16 @@ The lecture plan is as follows.
   - Introduction to FDA: what is functional data, some elements from the FDA toolkit.
   - Smoothing and Regularisation.
  
-- Week 2 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture2.pdf) | [Video](https://youtu.be/Zxqs9iPuvjc)
+- Week 2 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture2.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%202.pdf)
+| [Video](https://youtu.be/Zxqs9iPuvjc)
   - A Hilbert Space Model for Functional Data.
   
-- Week 3 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture3.pdf)
+- Week 3 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture3.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%203.pdf)
+
   - Functional Principal Component Analysis.
   - Canonical Correlation Analysis
 
-- Week 4
+- Week 4 [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%204.pdf)
   - Two Sample Inference for Functional Data
   
 - Week  5
