@@ -36,9 +36,9 @@ The lecture plan is as follows.
 
 ## Coursework
 
-Coursework Instructions will be uploaded towards the end of the course
+Deadline: **15th March 2021**
 
-Deadline: About a month after the end of the course.
+Coursework Instructions can be found [here](https://github.com/aduncan001/Elements-of-FDA/raw/main/assessment.pdf).
 
 Page limit: 10 pages, recommended length around 6-8 pages
   
