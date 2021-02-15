@@ -40,7 +40,7 @@ Deadline: **15th March 2021**
 
 Coursework Instructions can be found [here](https://github.com/aduncan001/Elements-of-FDA/raw/main/assessment.pdf).
 
-Page limit: 10 pages, recommended length around 6-8 pages
+Page limit: 10 pages, recommended length around 5 pages
   
 ## References   
   
