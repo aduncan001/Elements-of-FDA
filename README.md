@@ -24,7 +24,7 @@ The lecture plan is as follows.
   - Functional Principal Component Analysis.
   - Canonical Correlation Analysis
 
-- Week 4 [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%204.pdf)
+- Week 4 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture4.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%204.pdf)
   - Two Sample Inference for Functional Data
   
 - Week  5
