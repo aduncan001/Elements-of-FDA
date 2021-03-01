@@ -22,13 +22,12 @@ The lecture plan is as follows.
 - Week 3 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture3.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%203.pdf)
 
   - Functional Principal Component Analysis.
-  - Canonical Correlation Analysis
 
-- Week 4 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture4.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%204.pdf)
+- Week 4 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture4.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%204.pdf) | [Video](https://web.microsoftstream.com/video/6734ab9f-59c3-4157-b2e5-2ea67a09df1a)
+  - Canonical Correlation Analysis 
+  -  
+- Week  5 | [Video](https://web.microsoftstream.com/video/ada503ff-c59e-4409-8daa-b62853e14dc0)
   - Two Sample Inference for Functional Data
-  
-- Week  5
-  - Functional Linear Models
   - Some additional topics
 
   
