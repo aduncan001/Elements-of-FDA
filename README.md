@@ -19,7 +19,7 @@ The lecture plan is as follows.
 | [Video](https://youtu.be/Zxqs9iPuvjc)
   - A Hilbert Space Model for Functional Data.
   
-- Week 3 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture3.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%203.pdf)
+- Week 3 [Lecture Notes](https://github.com/aduncan001/Elements-of-FDA/raw/main/lecture3.pdf) | [Blackboard Script](https://github.com/aduncan001/Elements-of-FDA/raw/main/FDA%20Week%203.pdf) | [Video](https://web.microsoftstream.com/video/bf4dd6c7-1d38-4687-9d90-f560fe880c86)
 
   - Functional Principal Component Analysis.
 
